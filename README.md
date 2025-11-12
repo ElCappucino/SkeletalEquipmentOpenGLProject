@@ -1,5 +1,8 @@
 This is a Skeletal Equipment Project made for Advance Computer Graphic 1 Class
 
+This project focus on
+- learning how to use skeletal data by transform object based on it
+
 You can control the character using these keys
 
 WASD to walk around
