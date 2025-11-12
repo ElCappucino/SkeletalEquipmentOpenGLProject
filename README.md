@@ -13,7 +13,7 @@ You can equip different hats by standing above it
 
 if the project is unavailable to run, please try use it with learnopengl project as a base
 
-![Uploading SkeletalEquipmentOpenGL.gif…]()
+![](SkeletalEquipmentOpenGL.gif)
 
 full video:
 https://www.youtube.com/watch?v=xyRs9iMW0AE
